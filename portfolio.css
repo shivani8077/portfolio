@@ -1,0 +1,65 @@
+* {
+    margin: 1rem;
+    text-align: center;
+    /* background-color: antiquewhite; */
+}
+
+body{
+    background-color:tan;
+}
+.header {
+    background-color: rgb(160, 157, 157);
+    font-weight: bolder;
+    font-size: large;
+    padding-bottom: 1px;
+}
+
+p {
+    text-align: left;
+}
+
+.detail {
+    font-size: 1.5rem;
+    text-align: left;
+    font-weight: lighter;
+}
+
+.about {
+    background-color: rgb(160, 157, 157);
+    font-size: 2rem;
+    font-weight: bolder;
+    padding-bottom: 1px;
+}
+
+.Experience {
+    background-color: rgb(160, 157, 157);
+    font-size: 2rem;
+    font-weight: bolder;
+    padding-bottom: 1px;
+}
+
+.E1 {
+    font-size: 1.5rem;
+    text-align: left;
+    font-weight: lighter;
+}
+
+.work {
+    background-color: rgb(160, 157, 157);
+    font-size: 2rem;
+    font-weight: bolder;
+    padding-bottom: 1px;
+}
+
+.p1 {
+    font-size: 1.5rem;
+    text-align: left;
+    font-weight: lighter;
+}
+
+.contact {
+    background-color: rgb(160, 157, 157);
+    font-size: 1.5rem;
+    font-weight: bolder;
+    padding-bottom: 1px;
+}
